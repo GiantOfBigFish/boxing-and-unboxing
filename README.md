@@ -1,5 +1,5 @@
 # boxing-and-unboxing
- _Hello, this is an playground to see what boxing is and figure out how affects the memory and the speed._
+ _Hello, this is an playground to see what boxing is and figure out how affects the memory and the performance._
  
 Here is an example of boxing (implicity convert to object):
 ```
